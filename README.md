@@ -28,3 +28,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshikha25nov&show_icons=true&locale=en&layout=compact" alt="deepshikha25nov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepshikha25nov&show_icons=true&locale=en" alt="deepshikha25nov" /></p>
+
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
